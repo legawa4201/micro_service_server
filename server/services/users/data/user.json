@@ -1,0 +1,26 @@
+[
+    {
+        "username": "gaw",
+        "email": "gaw@mail.com",
+        "password": "gawgaw",
+        "role": "admin",
+        "phoneNumber": "082913809283",
+        "address": "Di antara Sabang sampai Merauke"
+    },
+    {
+        "username": "leg",
+        "email": "leg@mail.com",
+        "password": "legleg",
+        "role": "admin",
+        "phoneNumber": "0849210481294",
+        "address": "Di antara Merauke sampai Sabang"
+    },
+    {
+        "username": "suk",
+        "email": "suk@mail.com",
+        "password": "suksuk",
+        "role": "admin",
+        "phoneNumber": "084029184910",
+        "address": "Suatu tempat di Indonesia"
+    }
+]

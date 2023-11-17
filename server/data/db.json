@@ -1,0 +1,356 @@
+{
+  "categories": [
+    {
+      "name": "Motherboard"
+    },
+    {
+      "name": "Graphics Card"
+    },
+    {
+      "name": "Monitor"
+    },
+    {
+      "name": "Cooling"
+    },
+    {
+      "name": "PSU"
+    },
+    {
+      "name": "Case"
+    }
+  ],
+  "products": [
+      {
+        "id": 1,
+        "name": "ROG CROSSHAIR X670E GENE",
+        "slug": "ROG-CROSSHAIR-X670E-GENE",
+        "description": "AMD X670 MATX motherboard with 16+2 power stages, DDR5, Three M.2, USB 3.2 Gen 2x2 front-panel connector with Quick Charge 4+ support, Dual USB4® ports., PCIe® 5.0, Onboard Wi-Fi 6E and Aura Sync RGB lighting",
+        "price": 10000000,
+        "mainImg": "https://rog.asus.com/websites/global/products/cnhwpmnioz7bydpa/img/z490/kv/hero.png",
+        "categoryId": 1,
+        "mongoAuthorId": "65278d843d6329b023b8bd08"
+      },
+      {
+        "id": 2,
+        "name": "ROG MAXIMUS Z790 DARK HERO",
+        "slug": "ROG-MAXIMUS-Z790-DARK-HERO",
+        "description": "The ROG Maximus Z790 Dark Hero boasts robust cooling, WiFi 7 and ample PCIe 5.0 slot for unmatched performance, and it offers full compatibility with Next-Gen Intel® Core™ processors.",
+        "price": 47000000,
+        "mainImg": "https://dlcdnwebimgs.asus.com/files/media/29C004F7-7B1F-4EBF-9099-7168B520A0EE/v1/img/kv/pd.png",
+        "categoryId": 1,
+        "mongoAuthorId": "65278d843d6329b023b8bd0a"
+      },
+      {
+        "id": 3,
+        "name": "ROG STRIX Z790-A GAMING WIFI II",
+        "slug": "ROG-STRIX-Z790_A-GAMING-WIFI-II",
+        "description": "The ROG Strix Z790-A Gaming WIFI II comes with a robust VRM topped with a stout silver heatsink that comfortably articulates power for the latest Intel® Next-Gen Core processors.",
+        "price": 8000000,
+        "mainImg": "https://dlcdnwebimgs.asus.com/files/media/BE216201-D173-4850-A7D3-60B0F2319E27/v1/img/kv/ROG-Strix-Z790-A-Gaming.png",
+        "categoryId": 1,
+        "mongoAuthorId": "65278d843d6329b023b8bd09"
+      },
+      {
+        "id": 4,
+        "name": "ROG Zenith II Extreme",
+        "slug": "ROG-Zenith-II-Extreme",
+        "description": "AMD TRX40 E-ATX motherboard sTRX4 for 3rd Gen Ryzen Threadripper, with 16 power stages, PCIe 4.0, Wi-Fi 6 (802.11ax), 10 Gbps Ethernet, USB3.2 Gen2x2, dual USB 3.2 front panel connector, five M.2, SATA and Aura Sync RGB",
+        "price": 15000000,
+        "mainImg": "https://rog.asus.com/websites/global/products/3xoclgdkoiofvaax/img/hero/hero-m.jpg",
+        "categoryId": 1,
+        "mongoAuthorId": "65278d843d6329b023b8bd0a"
+      },
+      {
+        "id": 5,
+        "name": "ROG RAMPAGE VI APEX",
+        "slug": "ROG-RAMPAGE-VI-APEX",
+        "description": "Intel X299 EATX enthusiast motherboard with record-breaking performance, Aura Sync RGB LEDs, quad-channel DDR4 4133MHz+, dual DIMM.2 expansion cards (up to four M.2 SSDs), and USB 3.1",
+        "price": 40000000,
+        "mainImg": "https://rog.asus.com/websites/global/products/ZiZmcsHioLQEkQuB/img/experience/cooler_pd.png",
+        "categoryId": 1,
+        "mongoAuthorId": "65278d843d6329b023b8bd09"
+      },
+      {
+        "id": 6,
+        "name": "ROG Dominus Extreme",
+        "slug": "ROG-Dominus-Extreme",
+        "description": "EEB motherboard compatible with ATX mounts, support for 6 channel DDR4 4200MHz+ (OC), dual DIMM.2 with heatsinks, quad M.2, onboard 10G Lan, integrated Wi-Fi, USB 3.1 and dual U.2",
+        "price": 15000000,
+        "mainImg": "https://m.media-amazon.com/images/I/91QCXQwZY4L.jpg",
+        "categoryId": 1,
+        "mongoAuthorId": "65278d843d6329b023b8bd08"
+      },
+      {
+        "id": 7,
+        "name": "ROG Matrix Platinum GeForce RTX™ 4090 24GB GDDR6X",
+        "slug": "ROG-Matrix-Platinum-GeForce-RTX™-4090-24GB-GDDR6X",
+        "description": "The Matrix GeForce RTX 4090 features a metal frame design with a semi-hollow chamber where the main coldplate, PCB and pump shroud are protected by a larger aluminum body.",
+        "price": 55000000,
+        "mainImg": "https://cdn.wccftech.com/wp-content/uploads/2023/09/ASUS-GeForce-RTX-4090-ROG-MATRIX-Platinum-Graphics-Card-_1-_1.jpg",
+        "categoryId": 2,
+        "mongoAuthorId": "65278d843d6329b023b8bd08"
+      },
+      {
+        "id": 7,
+        "name": "ROG Strix GeForce RTX™ 4060 Ti Advanced Edition 16GB GDDR6",
+        "slug": "ROG-Strix-GeForce-RTX™-4060-Ti-Advanced-Edition-16GB-GDDR6",
+        "description": "ROG Strix GeForce RTX™ 4060 Ti Advanced Edition 16GB GDDR6 with DLSS 3 and chart-topping thermal performance",
+        "price": 75000000,
+        "mainImg": "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/10/3/9ff2ff89-f7ef-4f7f-b28d-6ab2337e566b.png",
+        "categoryId": 2,
+        "mongoAuthorId": "65278d843d6329b023b8bd09"
+      },
+      {
+        "id": 8,
+        "name": "ROG Strix GeForce RTX™ 4090 24GB GDDR6X OC EVA-02 Edition",
+        "slug": "ROG-Strix-GeForce-RTX™-4090-24GB-GDDR6X-OC-EVA_02-Edition",
+        "description": "ROG Strix GeForce RTX™ 4090 24GB GDDR6X OC EVA-02 Edition with DLSS 3 and chart-topping thermal performance.",
+        "price": 75000000,
+        "mainImg": "https://images.tokopedia.net/img/cache/700/VqbcmM/2023/8/31/48cbfc62-a94b-43e9-83da-b4a88afbccbc.png",
+        "categoryId": 2,
+        "mongoAuthorId": "65278d843d6329b023b8bd09"
+      },
+      {
+        "id": 9,
+        "name": "ROG Strix Radeon™ RX 6650 XT OC Edition 8GB GDDR6",
+        "slug": "ROG-Strix-Radeon™-RX-6650-XT-OC-Edition-8GB-GDDR6",
+        "description": "ROG Strix Radeon™ RX 6650 XT OC Edition 8GB GDDR6 is a cooling and power-performance juggernaut.",
+        "price": 8000000,
+        "mainImg": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/9/10/f1b877e7-0c0d-440c-9cb0-4d3f58a95feb.jpg",
+        "categoryId": 2,
+        "mongoAuthorId": "65278d843d6329b023b8bd0a"
+      },
+      {
+        "id": 10,
+        "name": "ROG STRIX GTX1650 O4GD6 GAMING",
+        "slug": "ROG-STRIX-GTX1650-O4GD6-GAMING",
+        "description": "ROG Strix GeForce® GTX 1650 OC edition 4GB GDDR6 is your ticket into PC gaming.",
+        "price": 6000000,
+        "mainImg": "https://rog.asus.com/websites/global/products/tl7rqjdqd4f9vkqu/img/kv/product-split-1.png",
+        "categoryId": 2,
+        "mongoAuthorId": "65278d843d6329b023b8bd09"
+      },
+      {
+        "id": 11,
+        "name": "ROG Strix Radeon™ RX 6650 XT V2 OC Edition 8GB GDDR6",
+        "slug": "ROG-Strix-Radeon™-RX-6650-XT-V2-OC-Edition-8GB-GDDR6",
+        "description": "ROG Strix Radeon™ RX 6650 XT V2 OC Edition 8GB GDDR6 is a cooling and power-performance juggernaut.",
+        "price": 8000000,
+        "mainImg": "https://dlcdnwebimgs.asus.com/files/media/C586897F-1BD7-4A48-B800-992702DC3C1F/v1/img/img_front.png",
+        "categoryId": 2,
+        "mongoAuthorId": "65278d843d6329b023b8bd08"
+      },
+      {
+        "id": 12,
+        "name": "ROG Strix GeForce RTX™ 3050 OC Edition 8GB",
+        "slug": "ROG-Strix-GeForce-RTX™-3050-OC-Edition-8GB",
+        "description": "ROG Strix GeForce RTX™ 3050 OC Edition 8GB GDDR6 buffed-up design with chart-topping thermal performance.",
+        "price": 9000000,
+        "mainImg": "https://c1.neweggimages.com/productimage/nb640/14-126-556-25.jpg",
+        "categoryId": 2,
+        "mongoAuthorId": "65278d843d6329b023b8bd0a"
+      },
+      {
+        "id": 13,
+        "name": "ROG STRIX XG17AHP",
+        "slug": "ROG-STRIX-XG17AHP",
+        "description": "ROG Strix XG17AHP Portable USB Type-C Gaming Monitor 17.3-inch, IPS, FHD (FullHD, 1920x1080), 240Hz(Above 144Hz), Adaptive-sync, Non-Glare, USB-C, Micro-HDMI, Built-in battery for laptop, camera, console, ROG Tripod, ROG Bag, Smart cover, Eye care",
+        "price": 2000000,
+        "mainImg": "https://m.media-amazon.com/images/I/81rT+7PMS5L._AC_UF894,1000_QL80_.jpg",
+        "categoryId": 3,
+        "mongoAuthorId": "65278d843d6329b023b8bd0a"
+      },
+      {
+        "id": 14,
+        "name": "ROG SWIFT 360Hz PG259QN",
+        "slug": "ROG-SWIFT-360Hz-PG259QN",
+        "description": "ASUS ROG Swift 360Hz PG259QN eSports NVIDIA® G-SYNC® Gaming Monitor 25 inch (24.5 inch viewable) FHD (1920 x 1080), 360 Hz, Fast IPS, 1 ms (GTG), HDR, NVIDIA ULMB.",
+        "price": 15000000,
+        "mainImg": "https://rog.asus.com/websites/global/products/4m1eid3wpo5mvxra/images/bg-display-m.jpg",
+        "categoryId": 3,
+        "mongoAuthorId": "65278d843d6329b023b8bd0a"
+      },
+      {
+        "id": 15,
+        "name": "ROG Strix XG27AQM-G EVA Edition",
+        "slug": "ROG-Strix-XG27AQM_G-EVA-Edition",
+        "description": "The Republic of Gamers is launching new equipment for the EVANGELION project. The ROG Strix XG27AQM EVA Edition is handsomely clad in the EVA-01's purple and green color scheme. With an overclocked refresh rate of 270 Hz and a speedy 0.5ms response time.",
+        "price": 22000000,
+        "mainImg": "https://dlcdnwebimgs.asus.com/files/media/CD40B1C1-1025-4F3A-9662-4D51DF7A44B9/v1/img/kv_pd.png",
+        "categoryId": 3,
+        "mongoAuthorId": "65278d843d6329b023b8bd08"
+      },
+      {
+        "id": 16,
+        "name": "ROG SWIFT PG278Q",
+        "slug": "ROG-SWIFT-PG278Q",
+        "description": "ROG Swift PG278Q Gaming Monitor - 27 inch 2K QHD (2560x1440), 1ms, up to 144Hz, G-SYNC™.",
+        "price": 23500000,
+        "mainImg": "https://m.media-amazon.com/images/I/51wWhwTfMoL._AC_UF894,1000_QL80_.jpg",
+        "categoryId": 3,
+        "mongoAuthorId": "65278d843d6329b023b8bd08"
+      },
+      {
+        "id": 17,
+        "name": "ROG Strix XG27AQMR",
+        "slug": "ROG-Strix-XG27AQMR",
+        "description": "ROG Strix XG27AQMR Gaming Monitor — 27 inch 2K QHD (2560x1440), Fast IPS, 300 Hz (above 144Hz), 1 ms GTG, G-Sync compatible, Variable Overdrive, ELMB Sync, DisplayHDR 600.",
+        "price": 25000000,
+        "mainImg": "https://www.jagatreview.com/wp-content/uploads/2023/02/ROG_1.jpg",
+        "categoryId": 3,
+        "mongoAuthorId": "65278d843d6329b023b8bd09"
+      },
+      {
+        "id": 18,
+        "name": "ROG RYUJIN 360",
+        "slug": "rOG-RYUJIN-360",
+        "description": "ROG Ryujin 360 all-in-one liquid CPU cooler with LiveDash color OLED, Aura Sync RGB and 3x Noctua iPPC 2000 PWM 120mm radiator fans.",
+        "price": 1,
+        "mainImg": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/medium//catalog-image/102/MTA-132773916/no-brand_no-brand_full03.jpg",
+        "categoryId": 4,
+        "mongoAuthorId": "65278d843d6329b023b8bd09"
+      },
+      {
+        "id": 19,
+        "name": "ROG RYUJIN 240",
+        "slug": "ROG-RYUJIN-240",
+        "description": "ROG Ryujin 240 all-in-one liquid CPU cooler with LiveDash color OLED, Aura Sync RGB and 2x Noctua iPPC 2000 PWM 120mm radiator fans.",
+        "price": 2500000,
+        "mainImg": "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//catalog-image/93/MTA-132773331/no-brand_no-brand_full01.jpg",
+        "categoryId": 4,
+        "mongoAuthorId": "65278d843d6329b023b8bd09"
+      },
+      {
+        "id": 20,
+        "name": "ROG RYUJIN II 240 ARGB",
+        "slug": "ROG-RYUJIN-II-240-ARGB",
+        "description": "ROG Ryujin II 240 ARGB all-in-one liquid CPU cooler with 3.5in LCD, embedded pump fan and 2x ROG 120mm ARGB radiator fans",
+        "price": 5000000,
+        "mainImg": "https://www.respawn.pk/wp-content/uploads/2023/05/asus-rog-ryujin-ii-240-argb-liquid-cpu-cooler-1.png",
+        "categoryId": 4,
+        "mongoAuthorId": "65278d843d6329b023b8bd0a"
+      },
+      {
+        "id": 21,
+        "name": "ROG RYUO III 240 ARGB",
+        "slug": "ROG-RYUO-III-240-ARGB",
+        "description": "ROG Ryuo III 240 all-in-one liquid CPU cooler with Asetek 8th gen pump solution, Anime Matrix™ LED Display and ROG ARGB cooling fans",
+        "price": 3000000,
+        "mainImg": "https://m.media-amazon.com/images/I/71+RiBY-qNL.jpg",
+        "categoryId": 4,
+        "mongoAuthorId": "65278d843d6329b023b8bd0a"
+      },
+      {
+        "id": 21,
+        "name": "ROG STRIX LC 360",
+        "slug": "ROG-STRIX-LC-360",
+        "description": "ROG Strix LC 360 all-in-one liquid CPU cooler with Aura Sync RGB, and triple ROG 120mm radiator fans",
+        "price": 2500000,
+        "mainImg": "https://tonixcomputer.co.id/wp-content/uploads/sites/3/2020/05/Asus-ROG-STRIX-LC-360-RGB.jpg",
+        "categoryId": 4,
+        "mongoAuthorId": "65278d843d6329b023b8bd08"
+      },
+      {
+        "id": 22,
+        "name": "ROG STRIX LC 120 RGB",
+        "slug": "ROG-STRIX-LC-120-RGB",
+        "description": "ROG Strix LC 120 RGB all-in-one liquid CPU cooler with Aura Sync, and ROG 120mm addressable RGB radiator fan",
+        "price": 1500000,
+        "mainImg": "https://rog.asus.com/websites/global/products/webqakoqzdsstv8u/img/kv-mobile.jpg",
+        "categoryId": 4,
+        "mongoAuthorId": "65278d843d6329b023b8bd08"
+      },
+      {
+        "id": 23,
+        "name": "ROG STRIX LC II 360 ARGB",
+        "slug": "ROG-STRIX-LC-II-360-ARGB",
+        "description": "ROG Strix LC II 360 ARGB all-in-one liquid CPU cooler with Aura Sync and three ROG 120 mm addressable RGB radiator fans",
+        "price": 4500000,
+        "mainImg": "https://microless.com/cdn/products/60c976a979cb0ca35cc0f994326678ec-hi.jpg",
+        "categoryId": 4,
+        "mongoAuthorId": "65278d843d6329b023b8bd08"
+      },
+      {
+        "id": 24,
+        "name": "ROG THOR 1000P2 GAMING",
+        "slug": "ROG-THOR-1000P2-GAMING",
+        "description": "ROG Thor 1000W Platinum II is the quietest PSU in its class.",
+        "price": 5600000,
+        "mainImg": "https://s3-apw.badencloud.store/49882-cdn/6c603a78-7c4f-45d3-b1b9-47d8b996e9e0_7_1687859383.jpg",
+        "categoryId": 5,
+        "mongoAuthorId": "65278d843d6329b023b8bd08"
+      },
+      {
+        "id": 25,
+        "name": "ROG THOR 850P",
+        "slug": "ROG-THOR-850P",
+        "description": "ROG Thor 850W Platinum Power Supply Unit stands out with Aura Sync and an OLED display",
+        "price": 5000000,
+        "mainImg": "https://images.tokopedia.net/img/cache/700/VqbcmM/2022/10/18/87625997-30fa-4953-8c1a-ef2017ee8677.png ",
+        "categoryId": 5,
+        "mongoAuthorId": "65278d843d6329b023b8bd09" 
+      },
+      {
+        "id": 26,
+        "name": "ROG THOR 850W Platinum II",
+        "slug": "ROG-THOR-850W-Platinum-II",
+        "description": "ROG Thor 850W Platinum II is the quietest PSU in its class.",
+        "price": 4000000,
+        "mainImg": "https://pcgamingcases.co.uk/media/catalog/product/cache/b86786d5ad1cf9124d5ea32b5c7a55df/p/s/psu-850asthorp2_hd5are5qwdvgdcgi.jpg",
+        "categoryId": 5,
+        "mongoAuthorId": "65278d843d6329b023b8bd09"
+      },
+      {
+        "id": 27,
+        "name": "ROG STRIX 650G",
+        "slug": "ROG-STRIX-650G",
+        "description": "The ROG Strix 650W Gold PSU brings premium cooling performance to the mainstream.",
+        "price": 1600000,
+        "mainImg": "https://images.tokopedia.net/img/cache/700/VqbcmM/2020/9/28/5c66927a-04e4-4a15-884c-faf56d008d27.jpg",
+        "categoryId": 5,
+        "mongoAuthorId": "65278d843d6329b023b8bd0a"
+      },
+      {
+        "id": 28,
+        "name": "ROG STRIX 750W Gold",
+        "slug": "ROG-STRIX-750W-Gold",
+        "description": "The ROG Strix 750W Gold PSU brings premium cooling performance to the mainstream",
+        "price": 2000000,
+        "mainImg": "https://m.media-amazon.com/images/I/81f0uQAJRlL._AC_UF894,1000_QL80_.jpg",
+        "categoryId": 5,
+        "mongoAuthorId": "65278d843d6329b023b8bd0a"
+      },
+      {
+        "id": 29,
+        "name": "ROG STRIX 850G WHITE",
+        "slug": "ROG-STRIX-850G-WHITE",
+        "description": "The ROG Strix 850W White Edition PSU, with 80 PLUS Gold certification, brings premium performance to the mainstream.",
+        "price": 4500000,
+        "mainImg": "https://rog.asus.com/websites/global/products/rpubdavsxxzfyped/img/kv/product-kv_s.jpg",
+        "categoryId": 5,
+        "mongoAuthorId": "65278d843d6329b023b8bd09"
+      },
+      {
+        "id": 30,
+        "name": "ROG Strix Helios",
+        "slug": "ROG-Strix-Helios",
+        "description": "ROG Strix Helios RGB ATX/EATX mid-tower gaming case with tempered glass, aluminum frame, GPU braces, 420mm radiator support and Aura Sync",
+        "price": 8000000,
+        "mainImg": "https://rog.asus.com/websites/global/products/g2Pl47nZaToiPUKg/img/pic_FLEXIBLE_GRAPHICS_a.png",
+        "categoryId": 6,
+        "mongoAuthorId": "65278d843d6329b023b8bd08"
+      },
+      {
+        "id": 31,
+        "name": "ROG Strix Helios White Edition",
+        "slug": "ROG-Strix-Helios-White-Edition",
+        "description": "ROG Strix Helios White Edition RGB ATX/EATX mid-tower gaming case with tempered glass, aluminum frame, GPU braces, 420mm radiator support and Aura Sync",
+        "price": 500000,
+        "mainImg": "https://img.overclockers.co.uk/images/CA-05H-AS/4cd57ca2c2bf4e9f6baf13319530ddcd.jpg",
+        "categoryId": 6,
+        "mongoAuthorId": "65278d843d6329b023b8bd08"
+      }
+  ],
+  "images": [
+  ]
+}

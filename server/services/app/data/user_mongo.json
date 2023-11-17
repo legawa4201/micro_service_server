@@ -1,0 +1,23 @@
+[
+  {
+    "authorMongoId": "652cf810ee9906fc70635770",
+    "username": "gaw",
+    "email": "gaw@mail.com",
+    "phoneNumber": "082913809283",
+    "address": "Di antara Sabang sampai Merauke"
+  },
+  {
+    "authorMongoId": "652cf810ee9906fc70635771",
+    "username": "leg",
+    "email": "leg@mail.com",
+    "phoneNumber": "0849210481294",
+    "address": "Di antara Merauke sampai Sabang"
+  },
+  {
+    "authorMongoId": "652cf810ee9906fc70635772",
+    "username": "suk",
+    "email": "suk@mail.com",
+    "phoneNumber": "084029184910",
+    "address": "Suatu tempat di Indonesia"
+  }
+]

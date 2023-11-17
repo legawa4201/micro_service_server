@@ -1,0 +1,28 @@
+version: "1.0"
+
+services:
+    orchestrator:
+      build: "./orchestrator"
+      ports:
+        - "4000:4000"
+      environment:
+        - "PORT=4000"
+        - "USER_URL=http://service-user:4001"
+        - "APP_URL=http://service-app:4002"
+
+    service-user:
+      build: "./services/users"
+      ports: 
+        - "4001:4001"
+      environment:
+        - "PORT=4001"
+        - "DATABASE_URL=mongodb+srv://legawap12:l577lHfQx4AbNoqS@cluster0.g2glqrn.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp"
+    
+    service-app:
+      build: "./services/app"
+      ports:
+        - "4002:4002"
+      environment:
+        - "NODE_ENV=production"
+        - "PORT=4002"
+        - "DATABASE_URL=postgresql://postgres:6tyBabfi52npculn@db.ixzanywhhfwcstbdhjih.supabase.co:5432/postgres"
